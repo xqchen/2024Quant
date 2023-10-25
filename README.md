@@ -56,6 +56,7 @@ QT = Quantitative Trading
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=new-york)| NYC|[✅](https://www.janestreet.com/join-jane-street/position/6834728002/)|[✅](https://www.janestreet.com/join-jane-street/position/6838982002/)|[✅](https://www.janestreet.com/join-jane-street/position/6850721002/)|| Founded by ex-SIG people. Tends to be more school-agnostic than other firms. Also offers a lot of first-round interviews. General perception of JS is that it has a very comfortable and quirky culture. Specializes in market making.|
 | [Jump Trading](https://www.jumptrading.com/careers/?titleSearch=campus+intern)| Chicago|[✅](https://www.jumptrading.com/careers/5281211/)|[✅](https://www.jumptrading.com/careers/4674090/)|[✅](https://www.jumptrading.com/careers/5070997/)|| Fairly school-selective recruiting. Very engineering-focused with siloed teams.|
 |JPMorgan Chase & Co.|||||x。（两个实习都投了）只有实习||
+|Morgan stanley|||||x。（两个实习都投了）只有实习||
 | [Mako Trading](https://www.mako.com/opportunities)| London||||只有新加坡有岗位||
 | [Marshall Wace](https://www.mwam.com/join-us/internships/)|NYC||||x||
 | [Maven Securities](https://www.mavensecurities.com/jobs/) | London||||只有london|Founded by ex-optiver traders.|
